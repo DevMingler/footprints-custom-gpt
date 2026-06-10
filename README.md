@@ -85,11 +85,11 @@ Designed for contributors, experimentation, custom workflows, and community-driv
 
 ## Status
 
-Current Phase: Research & Validation
+**Footprints is live:** [Open the GPT in ChatGPT](https://chatgpt.com/g/g-6a293531488881918b349a03308c11b3-footprints)
 
-The Footprints methodology is actively evolving as exports are analysed and prompts are refined.
+Current Phase: Live & Evolving
 
-The GPT implementation will continue to improve as insights from the research repository are incorporated.
+The Footprints methodology and GPT experience will continue to improve as exports are analysed, prompts are refined, and insights from the research repository are incorporated.
 
 ---
 
